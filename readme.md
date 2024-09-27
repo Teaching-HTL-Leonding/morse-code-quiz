@@ -66,10 +66,9 @@ const morseCode = [
 
 ## Non-Functional Requirements
 
-* The app has to be a single page app (SPA) implemented with Angular 14.
-* Use *data binding* (one-way and two-way) to connect the view (HTML) with the logic (TypeScript).
+* The app has to be a single page app (SPA) implemented with Angular 18.
+* Use *data binding* and *Signals* to connect the view (HTML) with the logic (TypeScript).
 * Encapsulate the encoding and decoding functionality in an Angular service (or multiple services, you can choose).
-* Write at least four meaningful unit tests for the encoding and decoding functionality (at least two for encoding and at least two for decoding).
 
 ## Bonus Exercise
 
